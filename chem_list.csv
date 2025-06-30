@@ -1,14 +1,17 @@
-﻿Item,Vap Enthalpy (kJ/mol),T2 (C),P2 (torr)
+Item,Vap Enthalpy (kJ/mol),T2 (C),P2 (torr)
 H2O,44.004,100,760
 Toluene,33.48,111,760
 MCHAA,44.375,207,760
+MCH,45.853,156.999,760
+CH,39.248,155.749,760
 PTZ,61.797,371,760
 AHM,62.734,300.715,760
 HSi3O2Me7,38.6,163.75,760
 SIGMA,77.885,400,760
 Tetrahydrofuran / THF,29.8,66,760
 Ethyl Acetate / EA,31.9,77.1,760
-Diethyl Ether,26.52,34.6,760
+Diethyl Ether,26.5,34.6,760
 Methanol / MeOH,35.2,64.7,760
 n-Hexane,28.9,68.7,760
 Dichloromethane / DCM,28.6,39.6,760
+Triethyl amine / TEA,31.01,90.495,760
